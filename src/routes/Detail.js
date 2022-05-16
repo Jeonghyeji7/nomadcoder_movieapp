@@ -15,7 +15,8 @@ const Detail = () => {
   }, []);
 
   return (
-    <div>Detail</div>
+    <div>Detail(각 영화의 상세 내용)</div>
+    
   )
 }
 
